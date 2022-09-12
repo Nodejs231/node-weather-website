@@ -1,4 +1,4 @@
-console.log('Javascript client side is loaded')
+//console.log('Javascript client side is loaded')
 
 // fetch('https://puzzle.mead.io/puzzle').then((response) =>{
 //     response.json().then((data) =>{
